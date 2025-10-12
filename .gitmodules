@@ -1,3 +1,0 @@
-[submodule "old_repo"]
-	path = old_repo
-	url = https://github.com/HunterScholz/CS372.git
